@@ -4,8 +4,8 @@ To start using Dev Quiz App:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/cmtri2005/Flutter_NewBie.git
-   cd Flutter_NewBie
+   git clone https://github.com/cmtri2005/Dev-Quiz-App.git
+   cd Dev-Quiz-App
    ```
 
 2. **Install dependencies:**
