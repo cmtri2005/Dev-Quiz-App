@@ -41,8 +41,8 @@ To start using Dev Quiz App:
 
 ## UI
 <img width="330" height="709" alt="image" src="https://github.com/user-attachments/assets/70f4028e-febf-465b-a1ac-38a4ff1433b8" />
-<img width="371" height="785" alt="image" src="https://github.com/user-attachments/assets/931e5806-abe3-481d-ba1d-bd8157ecfaa6" />
-<img width="329" height="703" alt="image" src="https://github.com/user-attachments/assets/f3367bdd-d93e-4b84-bb27-b9a626761b63" />
+<img width="330" height="709" alt="image" src="https://github.com/user-attachments/assets/931e5806-abe3-481d-ba1d-bd8157ecfaa6" />
+<img width="330" height="709" alt="image" src="https://github.com/user-attachments/assets/f3367bdd-d93e-4b84-bb27-b9a626761b63" />
 
 
 
